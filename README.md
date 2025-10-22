@@ -16,13 +16,6 @@
 - [Aperçu](#-aperçu)
 - [Fonctionnalités](#-fonctionnalités)
 - [Architecture](#-architecture)
-- [Installation](#-installation)
-- [API](#-api)
-- [Services IA](#-services-ia)
-- [Déploiement](#-déploiement)
-- [Structure du projet](#-structure-du-projet)
-- [Contributing](#-contributing)
-- [Auteurs](#-auteurs)
 
 ---
 
